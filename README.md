@@ -54,3 +54,5 @@ This is a vulnerable application and may compromise the security of your system.
 
 ## token de sonarqube
 squ_c3ec6e694b0c7cf336d2dd4a10ce9eac721c1a62
+
+ne pas utiliser en production
